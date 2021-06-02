@@ -1,0 +1,19 @@
+{
+  "name": "mna",
+  "version": "1.0.36",
+  "description": "mna",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naeemmaliki036/test.git"
+  },
+  "author": "Naeem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naeemmaliki036/test/issues"
+  },
+  "homepage": "https://github.com/naeemmaliki036/test#readme"
+}
